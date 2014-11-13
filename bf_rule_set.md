@@ -1,6 +1,6 @@
-Rule Set C
+Rule Set D
 
-Finalized: August 5, 2014
+Finalized: November 3, 2014
 
 * [Stephen] hosts [every] episode
 * Each episode is roughly [1 hour] long
